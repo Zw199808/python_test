@@ -62,26 +62,26 @@ import time
 #     driver.execute_script(js_login)
 #     time.sleep(2)
 #     driver.quit()
-
+#
 # if __name__ == '__main__':
-    # driver = webdriver.Chrome()
-    # driver.get('https://www.jianshu.com/sign_in')
-    # time.sleep(1)
-    # #定位登录页面
-    # js_class = 'document.getElementsByClassName("active")[0].click();'
-    # driver.execute_script(js_class)
-    # time.sleep(1)
-    # #定位账号输入框
-    # js_account = 'document.getElementsByTagName("input")[2].vlaue = "username";'
-    # driver.execute_script(js_account)
-    # time.sleep(1)
-    # #定位密码输入框
-    # js_pwd = 'document.getElementsByTagName("input")[3].vlaue = "password";'
-    # driver.execute_script(js_pwd)
-    # time.sleep(1)
-    # #定位登录按钮
-    # js_login = 'document.querySelectorAll(".sign-in-button")[0].click;'
-    # driver.execute_script(js_login)
-    # time.sleep(2)
-    # driver.quit()
+#     driver = webdriver.Chrome()
+#     driver.get('https://www.jianshu.com/sign_in')
+#     time.sleep(1)
+#     #定位登录页面
+#     js_class = 'document.getElementsByClassName("active")[0].click();'
+#     driver.execute_script(js_class)
+#     time.sleep(1)
+#     #定位账号输入框
+#     js_account = 'document.getElementsByTagName("input")[2].vlaue = "username";'
+#     driver.execute_script(js_account)
+#     time.sleep(1)
+#     #定位密码输入框
+#     js_pwd = 'document.getElementsByTagName("input")[3].vlaue = "password";'
+#     driver.execute_script(js_pwd)
+#     time.sleep(1)
+#     #定位登录按钮
+#     js_login = 'document.querySelectorAll(".sign-in-button")[0].click;'
+#     driver.execute_script(js_login)
+#     time.sleep(2)
+#     driver.quit()
 

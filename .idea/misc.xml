@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/unittest单元测试框架/生产HTML测试报告/__init__.py" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (python  自动化测试学习)" project-jdk-type="Python SDK" />
 </project>

@@ -42,3 +42,4 @@ if __name__ == '__main__':
     ActionChains(driver).double_click(element).perform()
     time.sleep(5)
     driver.quit()
+
